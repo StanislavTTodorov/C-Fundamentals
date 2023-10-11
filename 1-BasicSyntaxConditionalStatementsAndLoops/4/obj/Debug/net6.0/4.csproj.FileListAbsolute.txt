@@ -1,0 +1,15 @@
+C:\Users\sttar\OneDrive\Работен плот\Проекти\C#EntityFrameworkCore2023\2-16.02.2023ExeADO.NET\BasicSyntaxConditionalStatementsAndLoops\4\bin\Debug\net6.0\4.exe
+C:\Users\sttar\OneDrive\Работен плот\Проекти\C#EntityFrameworkCore2023\2-16.02.2023ExeADO.NET\BasicSyntaxConditionalStatementsAndLoops\4\bin\Debug\net6.0\4.deps.json
+C:\Users\sttar\OneDrive\Работен плот\Проекти\C#EntityFrameworkCore2023\2-16.02.2023ExeADO.NET\BasicSyntaxConditionalStatementsAndLoops\4\bin\Debug\net6.0\4.runtimeconfig.json
+C:\Users\sttar\OneDrive\Работен плот\Проекти\C#EntityFrameworkCore2023\2-16.02.2023ExeADO.NET\BasicSyntaxConditionalStatementsAndLoops\4\bin\Debug\net6.0\4.dll
+C:\Users\sttar\OneDrive\Работен плот\Проекти\C#EntityFrameworkCore2023\2-16.02.2023ExeADO.NET\BasicSyntaxConditionalStatementsAndLoops\4\bin\Debug\net6.0\4.pdb
+C:\Users\sttar\OneDrive\Работен плот\Проекти\C#EntityFrameworkCore2023\2-16.02.2023ExeADO.NET\BasicSyntaxConditionalStatementsAndLoops\4\obj\Debug\net6.0\4.csproj.AssemblyReference.cache
+C:\Users\sttar\OneDrive\Работен плот\Проекти\C#EntityFrameworkCore2023\2-16.02.2023ExeADO.NET\BasicSyntaxConditionalStatementsAndLoops\4\obj\Debug\net6.0\4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sttar\OneDrive\Работен плот\Проекти\C#EntityFrameworkCore2023\2-16.02.2023ExeADO.NET\BasicSyntaxConditionalStatementsAndLoops\4\obj\Debug\net6.0\4.AssemblyInfoInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\Проекти\C#EntityFrameworkCore2023\2-16.02.2023ExeADO.NET\BasicSyntaxConditionalStatementsAndLoops\4\obj\Debug\net6.0\4.AssemblyInfo.cs
+C:\Users\sttar\OneDrive\Работен плот\Проекти\C#EntityFrameworkCore2023\2-16.02.2023ExeADO.NET\BasicSyntaxConditionalStatementsAndLoops\4\obj\Debug\net6.0\4.csproj.CoreCompileInputs.cache
+C:\Users\sttar\OneDrive\Работен плот\Проекти\C#EntityFrameworkCore2023\2-16.02.2023ExeADO.NET\BasicSyntaxConditionalStatementsAndLoops\4\obj\Debug\net6.0\4.dll
+C:\Users\sttar\OneDrive\Работен плот\Проекти\C#EntityFrameworkCore2023\2-16.02.2023ExeADO.NET\BasicSyntaxConditionalStatementsAndLoops\4\obj\Debug\net6.0\refint\4.dll
+C:\Users\sttar\OneDrive\Работен плот\Проекти\C#EntityFrameworkCore2023\2-16.02.2023ExeADO.NET\BasicSyntaxConditionalStatementsAndLoops\4\obj\Debug\net6.0\4.pdb
+C:\Users\sttar\OneDrive\Работен плот\Проекти\C#EntityFrameworkCore2023\2-16.02.2023ExeADO.NET\BasicSyntaxConditionalStatementsAndLoops\4\obj\Debug\net6.0\4.genruntimeconfig.cache
+C:\Users\sttar\OneDrive\Работен плот\Проекти\C#EntityFrameworkCore2023\2-16.02.2023ExeADO.NET\BasicSyntaxConditionalStatementsAndLoops\4\obj\Debug\net6.0\ref\4.dll

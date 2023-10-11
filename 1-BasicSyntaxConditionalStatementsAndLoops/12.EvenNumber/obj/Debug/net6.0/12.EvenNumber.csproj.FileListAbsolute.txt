@@ -1,0 +1,15 @@
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.exe
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.deps.json
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.runtimeconfig.json
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.dll
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.pdb
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.csproj.AssemblyReference.cache
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.AssemblyInfoInputs.cache
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.AssemblyInfo.cs
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.csproj.CoreCompileInputs.cache
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.dll
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\12.EvenNumber\obj\Debug\net6.0\refint\12.EvenNumber.dll
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.pdb
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.genruntimeconfig.cache
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\12.EvenNumber\obj\Debug\net6.0\ref\12.EvenNumber.dll

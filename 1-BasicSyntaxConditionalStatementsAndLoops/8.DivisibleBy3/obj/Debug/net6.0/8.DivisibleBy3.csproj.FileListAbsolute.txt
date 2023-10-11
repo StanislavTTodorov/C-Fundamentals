@@ -1,0 +1,15 @@
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\8.DivisibleBy3\bin\Debug\net6.0\8.DivisibleBy3.exe
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\8.DivisibleBy3\bin\Debug\net6.0\8.DivisibleBy3.deps.json
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\8.DivisibleBy3\bin\Debug\net6.0\8.DivisibleBy3.runtimeconfig.json
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\8.DivisibleBy3\bin\Debug\net6.0\8.DivisibleBy3.dll
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\8.DivisibleBy3\bin\Debug\net6.0\8.DivisibleBy3.pdb
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\8.DivisibleBy3\obj\Debug\net6.0\8.DivisibleBy3.csproj.AssemblyReference.cache
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\8.DivisibleBy3\obj\Debug\net6.0\8.DivisibleBy3.GeneratedMSBuildEditorConfig.editorconfig
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\8.DivisibleBy3\obj\Debug\net6.0\8.DivisibleBy3.AssemblyInfoInputs.cache
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\8.DivisibleBy3\obj\Debug\net6.0\8.DivisibleBy3.AssemblyInfo.cs
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\8.DivisibleBy3\obj\Debug\net6.0\8.DivisibleBy3.csproj.CoreCompileInputs.cache
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\8.DivisibleBy3\obj\Debug\net6.0\8.DivisibleBy3.dll
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\8.DivisibleBy3\obj\Debug\net6.0\refint\8.DivisibleBy3.dll
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\8.DivisibleBy3\obj\Debug\net6.0\8.DivisibleBy3.pdb
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\8.DivisibleBy3\obj\Debug\net6.0\8.DivisibleBy3.genruntimeconfig.cache
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\8.DivisibleBy3\obj\Debug\net6.0\ref\8.DivisibleBy3.dll

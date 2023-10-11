@@ -1,0 +1,15 @@
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\11.MultiplicationTable2.0\bin\Debug\net6.0\11.MultiplicationTable2.0.exe
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\11.MultiplicationTable2.0\bin\Debug\net6.0\11.MultiplicationTable2.0.deps.json
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\11.MultiplicationTable2.0\bin\Debug\net6.0\11.MultiplicationTable2.0.runtimeconfig.json
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\11.MultiplicationTable2.0\bin\Debug\net6.0\11.MultiplicationTable2.0.dll
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\11.MultiplicationTable2.0\bin\Debug\net6.0\11.MultiplicationTable2.0.pdb
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\11.MultiplicationTable2.0\obj\Debug\net6.0\11.MultiplicationTable2.0.csproj.AssemblyReference.cache
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\11.MultiplicationTable2.0\obj\Debug\net6.0\11.MultiplicationTable2.0.GeneratedMSBuildEditorConfig.editorconfig
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\11.MultiplicationTable2.0\obj\Debug\net6.0\11.MultiplicationTable2.0.AssemblyInfoInputs.cache
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\11.MultiplicationTable2.0\obj\Debug\net6.0\11.MultiplicationTable2.0.AssemblyInfo.cs
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\11.MultiplicationTable2.0\obj\Debug\net6.0\11.MultiplicationTable2.0.csproj.CoreCompileInputs.cache
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\11.MultiplicationTable2.0\obj\Debug\net6.0\11.MultiplicationTable2.0.dll
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\11.MultiplicationTable2.0\obj\Debug\net6.0\refint\11.MultiplicationTable2.0.dll
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\11.MultiplicationTable2.0\obj\Debug\net6.0\11.MultiplicationTable2.0.pdb
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\11.MultiplicationTable2.0\obj\Debug\net6.0\11.MultiplicationTable2.0.genruntimeconfig.cache
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\11.MultiplicationTable2.0\obj\Debug\net6.0\ref\11.MultiplicationTable2.0.dll

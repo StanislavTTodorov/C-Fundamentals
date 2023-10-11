@@ -1,0 +1,15 @@
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\9.SumOfOddNumbers\bin\Debug\net6.0\9.SumOfOddNumbers.exe
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\9.SumOfOddNumbers\bin\Debug\net6.0\9.SumOfOddNumbers.deps.json
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\9.SumOfOddNumbers\bin\Debug\net6.0\9.SumOfOddNumbers.runtimeconfig.json
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\9.SumOfOddNumbers\bin\Debug\net6.0\9.SumOfOddNumbers.dll
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\9.SumOfOddNumbers\bin\Debug\net6.0\9.SumOfOddNumbers.pdb
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\9.SumOfOddNumbers\obj\Debug\net6.0\9.SumOfOddNumbers.csproj.AssemblyReference.cache
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\9.SumOfOddNumbers\obj\Debug\net6.0\9.SumOfOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\9.SumOfOddNumbers\obj\Debug\net6.0\9.SumOfOddNumbers.AssemblyInfoInputs.cache
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\9.SumOfOddNumbers\obj\Debug\net6.0\9.SumOfOddNumbers.AssemblyInfo.cs
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\9.SumOfOddNumbers\obj\Debug\net6.0\9.SumOfOddNumbers.csproj.CoreCompileInputs.cache
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\9.SumOfOddNumbers\obj\Debug\net6.0\9.SumOfOddNumbers.dll
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\9.SumOfOddNumbers\obj\Debug\net6.0\refint\9.SumOfOddNumbers.dll
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\9.SumOfOddNumbers\obj\Debug\net6.0\9.SumOfOddNumbers.pdb
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\9.SumOfOddNumbers\obj\Debug\net6.0\9.SumOfOddNumbers.genruntimeconfig.cache
+S:\Projects\C#Fundamentals\1-BasicSyntaxConditionalStatementsAndLoops\BasicSyntaxConditionalStatementsAndLoops\9.SumOfOddNumbers\obj\Debug\net6.0\ref\9.SumOfOddNumbers.dll
